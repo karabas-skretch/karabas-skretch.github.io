@@ -1,0 +1,122 @@
+.logo{
+    font-family: 'Yeseva One', cursive;
+   background-color: gainsboro;
+   font-family: 'Sriracha', cursive;
+}
+.ter{
+   height: 50px;
+   width: 50px;
+}
+.cap{
+    background-color:gray;
+    font-family: 'Sriracha', cursive;
+  
+}
+.collage{
+    background-image: url(dog-659856_640.jpg);
+    background-size: cover;    
+   
+}
+.collage>blockquote{
+    background-color: rgba(255, 255, 255, 0.829);
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 1.5rem;
+   margin-top:5rem;
+   margin-bottom:5rem;
+  
+}   
+.der{
+     background-image: url(dog-954520_1920.jpg);
+    background-size: cover; 
+    background-position: 50% 50%; 
+    padding-top:20rem;
+    padding-bottom:20rem;
+    font-family: 'Sriracha', cursive;
+}  
+.nm ,.gh{
+    font-size: 1.5rem;
+    margin-top:5rem;
+    margin-bottom:5rem;
+    font-family: 'Sriracha', cursive;
+}
+.az{
+   background-image: url(closeup-photography-of-tan-and-white-boxer-1294062.jpg);
+    background-size: cover;
+    background-position: 50% 50%; 
+    padding-top:50rem;
+    font-family: 'Sriracha', cursive;
+}
+.fg,.zx{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    margin-top:5rem;
+    margin-bottom:5rem;
+    font-family: 'Sriracha', cursive;
+}
+.qw{
+    font-family: 'Yeseva One', cursive;
+   background-color: gainsboro;
+   font-family: 'Sriracha', cursive;
+}
+.df{
+    font-family: 'Yeseva One', cursive;
+   background-color: gainsboro;
+   font-family: 'Sriracha', cursive;
+}
+.yu{
+    font-family: 'Yeseva One', cursive;
+   background-color:gainsboro ;
+    font-family: 'Sriracha', cursive;
+}
+.op{
+    background-image: url(animal-animal-photography-blur-breed-333083.jpg);
+    background-size: cover; 
+    background-position: 50% 50%; 
+    padding-top:20rem;
+    padding-bottom:20rem;
+    font-family: 'Sriracha', cursive;
+ 
+}
+.asd{
+  font-family: 'Yeseva One', cursive;
+   background-color: gainsboro;
+   font-family: 'Sriracha', cursive;
+}
+.rt{
+    background-image: url(animal-dog-pet-cute-137020.jpg);
+    background-size: cover; 
+    background-position: 50% 50%; 
+    padding-top:20rem;
+    padding-bottom:20rem;
+    font-family: 'Sriracha', cursive;
+}   
+@media only screen and (min-width: 668px){
+    .caroisel-item{
+        max-height: 400px;
+        background-position: center center;
+    }
+}
+.dhg{
+    font-family: 'Yeseva One', cursive;
+   background-color: gainsboro;
+   padding-top: 1.5rem;
+   padding-bottom: 1.5rem;
+   display: flex;
+   justify-content: space-between;
+   font-family: 'Open Sans Condensed', sans-serif;
+   display: flex;
+   flex-wrap: wrap;
+}
+.fa-instagram{
+    color: rgba(202, 25, 25, 0.808);
+  font-size: 25px;
+    margin-left: 15px;
+}
+.fa-facebook{
+    color: rgba(36, 36, 196, 0.808);
+   font-size: 25px;
+    margin-left: 14px;
+}  
+.avtor{
+    margin-right: 20px;
+}  
